@@ -1,6 +1,5 @@
 from selenium.webdriver.remote.webdriver import WebDriver
 from metaclasses.meta_locator import MetaLocator
-import time
 
 class BasePage(metaclass=MetaLocator):
 
