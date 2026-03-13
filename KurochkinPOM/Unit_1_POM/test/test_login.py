@@ -1,7 +1,7 @@
 import time
 import allure
-from base.base_test import BaseTest
-from data.credentials import Credentials
+from Unit_1_POM.base.base_test import BaseTest
+from Unit_1_POM.data.credentials import Credentials
 
 @allure.epic("User")
 @allure.feature("Login")

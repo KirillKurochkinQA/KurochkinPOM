@@ -1,5 +1,5 @@
 import allure
-from base.base_page import BasePage
+from Unit_1_POM.base.base_page import BasePage
 
 class DashboardPage(BasePage):
 
